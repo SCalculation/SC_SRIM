@@ -21,23 +21,23 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "01.Install/index.html",
-    "revision": "754be3f200ab270f30afbd7cafebc8f0"
+    "revision": "aa0790b883ad5eabaebab291e235abda"
   },
   {
     "url": "02.DocumentTranslation/index.html",
-    "revision": "fe9419e0c3c622a43811b475c2c89062"
+    "revision": "3b0ba4c75efcf0c897258fadad0febab"
   },
   {
     "url": "03.Skills/index.html",
-    "revision": "34772a2e2252ae0452023337948f7166"
+    "revision": "3319c266f9dba24996709cd4d318890d"
   },
   {
     "url": "03.Skills/本科生论文阅读笔记.html",
-    "revision": "b632b9eaddc56914b197b5ae9b04fbcd"
+    "revision": "6f22d013d709f007bb24038cfbb0ceda"
   },
   {
     "url": "404.html",
-    "revision": "65cf5070bba25efed863666839a0750b"
+    "revision": "f338eaec0f3a99fcc293e643b350d2e7"
   },
   {
     "url": "assets/css/0.styles.a52aa9a7.css",
@@ -100,12 +100,12 @@ self.__precacheManifest = [
     "revision": "57f5c7230be1a219da0f5fabdcf272f0"
   },
   {
-    "url": "assets/js/app.93e5c432.js",
-    "revision": "fc5fda27e2cd80c5a0cc407a71e31313"
+    "url": "assets/js/app.269bb203.js",
+    "revision": "d24d71d6dcd70820df6a5601c51a0484"
   },
   {
     "url": "guide.html",
-    "revision": "695d41f8f4498ed7423f2762f7d6b73c"
+    "revision": "9226f96d07e73463e85d52bfac0358c5"
   },
   {
     "url": "images/eg1.png",
@@ -157,7 +157,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "960de657fc9c34aef7886268d0e8db4e"
+    "revision": "e74f2da01ab4ba6d4ef5ab205bbfb324"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
